@@ -524,5 +524,6 @@ int main()
 			system("pause");
 		}
 	}
+	system("pause"); //防止游戏闪退
 	return 0;
 }
